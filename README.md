@@ -77,3 +77,9 @@
 [Trabajo Práctico N°06](https://docs.google.com/document/d/1han4Ic-XQ-VbWZrvQkxtJLhuvRV3C74dHu2S6Uc9wdM/edit)
 
 [Trabajo Práctico N°07](https://docs.google.com/document/d/14nxWpg7Ro-KY_pTQTvEO5jQNeCIBLRZIaDXRsZRfRfA/edit)
+
+---
+
+## Ejercicios
+
+[Ejercicios](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxlY29ub21pYXV0bmZyYmF8Z3g6NDIyNGZhYzNkNGM5ZDVkNw)
