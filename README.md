@@ -1,5 +1,9 @@
 # Economía
 
+## Pagina de la materia
+
+* [Economia](https://sites.google.com/site/economiautnfrba/)
+
 ## Bibliografia 
 
 * Unidad 1
@@ -28,58 +32,58 @@
 
 ## Presentaciones
 
-[Presentación N°01](https://docs.google.com/presentation/d/1p-1u7LM-bEaDD_BbzsffG79jDNOgmiyJeaTVBlVdZhI/edit#slide=id.p3)
+[Presentación: El problema Economico](https://docs.google.com/presentation/d/1p-1u7LM-bEaDD_BbzsffG79jDNOgmiyJeaTVBlVdZhI/edit#slide=id.p3)
 
-[Presentación N°02](https://docs.google.com/presentation/d/10b1V-QaFpBHY0sCuskmEyfZvAgcR4TnPHZDhk8W38_k/edit#slide=id.p3)
+[Presentación: Modelo Microeconomia Básico](https://docs.google.com/presentation/d/10b1V-QaFpBHY0sCuskmEyfZvAgcR4TnPHZDhk8W38_k/edit#slide=id.p3)
 
-[Presentación N°03](https://docs.google.com/presentation/d/1Axgj16Kp7pAikTZ9hH9yVkE8K8VAyAs5KVSCseM_lcU/edit#slide=id.p3)
+[Presentación: Teoria del Consumo - Demanda](https://docs.google.com/presentation/d/1Axgj16Kp7pAikTZ9hH9yVkE8K8VAyAs5KVSCseM_lcU/edit#slide=id.p3)
 
-[Presentación N°04](https://docs.google.com/presentation/d/1zSMk2KP-RQqaqS2VxA-VdqY4vbwkmhoT6r_TCpmNef0/edit#slide=id.p3)
+[Presentación: Factores de la Produccion](https://docs.google.com/presentation/d/1zSMk2KP-RQqaqS2VxA-VdqY4vbwkmhoT6r_TCpmNef0/edit#slide=id.p3)
 
-[Presentación N°05](https://docs.google.com/presentation/d/1c4wRtTafmDtNXcbXW-a8Sr1v_VvxrjZ5oTa7RAmHUzA/edit )
+[Presentación: Teoria de la Produccion - Oferta](https://docs.google.com/presentation/d/1c4wRtTafmDtNXcbXW-a8Sr1v_VvxrjZ5oTa7RAmHUzA/edit )
 
-[Presentación N°06](https://docs.google.com/presentation/d/1quICJ41UXJ-2-zhGGgvA2T6MMAtiIOKEpueFKLNZZkI/edit#slide=id.p3)
+[Presentación: Mercados](https://docs.google.com/presentation/d/1quICJ41UXJ-2-zhGGgvA2T6MMAtiIOKEpueFKLNZZkI/edit#slide=id.p3)
 
-[Presentación N°07](https://docs.google.com/presentation/d/1CEYPGgF8O6t4lM5ni_eyV3JZuw1Vlme6E6op8oNEh6w/edit#slide=id.p4)
+[Presentación: Monedas - Creditos - Bancos](https://docs.google.com/presentation/d/1CEYPGgF8O6t4lM5ni_eyV3JZuw1Vlme6E6op8oNEh6w/edit#slide=id.p4)
 
-[Presentación N°08](https://docs.google.com/presentation/d/14UDb7lR8ABEkPzmp4rlVni5WEW3o4y_HItHCZoDgcns/edit)
+[Presentación: Renta Nacional](https://docs.google.com/presentation/d/14UDb7lR8ABEkPzmp4rlVni5WEW3o4y_HItHCZoDgcns/edit)
 
-[Presentación N°10](https://docs.google.com/presentation/d/1nclzfJTHNnfAEoHdr2rXzcRQM5nxC-SPaSNV5xzKnWs/edit#slide=id.p3)
+[Presentación: Tasa de Costo de Capital](https://docs.google.com/presentation/d/1nclzfJTHNnfAEoHdr2rXzcRQM5nxC-SPaSNV5xzKnWs/edit#slide=id.p3)
 
-[Presentación N°09](https://docs.google.com/presentation/d/15WS--fIbRF6S_tKNq8v5EyjIdHNlPGsrhJ1I_cmlWaU/edit#slide=id.p3)
+[Presentación: Depreciación y Amortizacion](https://docs.google.com/presentation/d/15WS--fIbRF6S_tKNq8v5EyjIdHNlPGsrhJ1I_cmlWaU/edit#slide=id.p3)
 
-[Presentación N°11](https://docs.google.com/presentation/d/1Nxfq4mOWPX7rqmfZiisTHMB_E8ayMSh93ym7ecEhA4A/edit)
+[Presentación: Costos](https://docs.google.com/presentation/d/1Nxfq4mOWPX7rqmfZiisTHMB_E8ayMSh93ym7ecEhA4A/edit)
 
-[Presentación N°12](https://docs.google.com/presentation/d/1ypeVjNmiVF_3XeIO2noY19GdLqvmsXb1oAT_UyfSoXU/edit#slide=id.p3)
+[Presentación: Sistemas de Costeos](https://docs.google.com/presentation/d/1ypeVjNmiVF_3XeIO2noY19GdLqvmsXb1oAT_UyfSoXU/edit#slide=id.p3)
 
-[Presentación N°13](https://docs.google.com/presentation/d/1blcXX3kFcIzI1Zmd6oLTo8jdNlC_pTtblmuaTp6zXv4/edit#slide=id.p4)
+[Presentación: Estados Contables](https://docs.google.com/presentation/d/1blcXX3kFcIzI1Zmd6oLTo8jdNlC_pTtblmuaTp6zXv4/edit#slide=id.p4)
 
-[Presentación N°14](https://docs.google.com/presentation/d/1SOSjluwQFYN-hluwLqca9YX_kA3vJ0P8uigEwUwK8bA/edit)
+[Presentación: Tablero de Comando](https://docs.google.com/presentation/d/1SOSjluwQFYN-hluwLqca9YX_kA3vJ0P8uigEwUwK8bA/edit)
 
-[Presentación N°16](https://docs.google.com/presentation/d/1o09abYgUJlDXKzg-UQmKYci4zdqYWKvNZkM0HUrmXyk/edit#slide=id.p3)
+[Presentación: Proyectos de Inversión](https://docs.google.com/presentation/d/1o09abYgUJlDXKzg-UQmKYci4zdqYWKvNZkM0HUrmXyk/edit#slide=id.p3)
 
-[Presentación N°15](https://docs.google.com/presentation/d/12hEAvT_FRPNvCnHPGec-snquQiQ1ijpBsVB4MtGjp54/edit)
+[Presentación: Presupuesto de la Empresa](https://docs.google.com/presentation/d/12hEAvT_FRPNvCnHPGec-snquQiQ1ijpBsVB4MtGjp54/edit)
 
 ---
 
 ## Trabajo Practico
 
-[Trabajo Práctico N°01](https://docs.google.com/document/d/1itUJNHNuoPRoLnmPZijOWA4-RcyOjWinBD-gDC6z-rw/edit)
+[Trabajo Práctico Nº01: El Problema Económico](https://docs.google.com/document/d/1itUJNHNuoPRoLnmPZijOWA4-RcyOjWinBD-gDC6z-rw/edit)
 
-[Trabajo Práctico N°02](https://docs.google.com/document/d/13Jt9IqXoFUukFJzp8sNiPemRACnszc16rtEsji9xR_k/edit)
+[Trabajo Práctico N°02: Microeconomía](https://docs.google.com/document/d/13Jt9IqXoFUukFJzp8sNiPemRACnszc16rtEsji9xR_k/edit)
 
-[Trabajo Práctico N°03](https://docs.google.com/document/d/12lHoafOfalMh4IfupsBHL3r8t7lsA3unHEH1IfUmXA0/edit)
+[Trabajo Práctico N°03: Macroeconomía](https://docs.google.com/document/d/12lHoafOfalMh4IfupsBHL3r8t7lsA3unHEH1IfUmXA0/edit)
 
-[Trabajo Práctico N°04](https://docs.google.com/document/d/1C8yoCDlmLd4CGYjKnLxd78O_rgcn60b_iO-Ou7uHy5I/edit)
+[Trabajo Práctico N°04: Tasa de costo de capital y amortizaciones](https://docs.google.com/document/d/1C8yoCDlmLd4CGYjKnLxd78O_rgcn60b_iO-Ou7uHy5I/edit)
 
-[Trabajo Práctico N°05](https://docs.google.com/document/d/1sfb5R-HBo6BHmnfepkaxDqpt9MXLp_a9peGitg2cF28/edit)
+[Trabajo Práctico N°05: Costos y Sistemas de Costos](https://docs.google.com/document/d/1sfb5R-HBo6BHmnfepkaxDqpt9MXLp_a9peGitg2cF28/edit)
 
-[Trabajo Práctico N°06](https://docs.google.com/document/d/1han4Ic-XQ-VbWZrvQkxtJLhuvRV3C74dHu2S6Uc9wdM/edit)
+[Trabajo Práctico N°06: Contabilidad - Tablero de comando](https://docs.google.com/document/d/1han4Ic-XQ-VbWZrvQkxtJLhuvRV3C74dHu2S6Uc9wdM/edit)
 
-[Trabajo Práctico N°07](https://docs.google.com/document/d/14nxWpg7Ro-KY_pTQTvEO5jQNeCIBLRZIaDXRsZRfRfA/edit)
+[Trabajo Práctico N°07: Desarrollo - Evaluacion - Selección de proyecto de inversión](https://docs.google.com/document/d/14nxWpg7Ro-KY_pTQTvEO5jQNeCIBLRZIaDXRsZRfRfA/edit)
 
 ---
 
 ## Ejercicios
 
-[Ejercicios](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxlY29ub21pYXV0bmZyYmF8Z3g6NDIyNGZhYzNkNGM5ZDVkNw)
+[Excel de ejercicios](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxlY29ub21pYXV0bmZyYmF8Z3g6NDIyNGZhYzNkNGM5ZDVkNw)
