@@ -7,27 +7,27 @@
 ## Bibliografia 
 
 * Unidad 1
-    * [El problema económico](https://docs.google.com/document/d/1TCJTHfBvqjp0AZN-nI_Qm70XpL8nZUg9xnhMy_fYxNk/edit)
+    * [El problema económico](https://docs.google.com/document/d/1TCJTHfBvqjp0AZN-nI_Qm70XpL8nZUg9xnhMy_fYxNk/edit) - [Descargar PDF](https://docs.google.com/document/export?format=pdf&id=1TCJTHfBvqjp0AZN-nI_Qm70XpL8nZUg9xnhMy_fYxNk&includes_info_params=true)
 * Unidad 2
-    * [Demanda](https://docs.google.com/document/d/1iOYJ8X5b0gTY7ms-tjwdE6aQYKGvQOy5lxAu0LcR-Lw/edit)
-    * [Oferta](https://docs.google.com/document/d/15enupzs_t4oyBQC0RDR2x8Z8egidcdEvkv0jE5RAEN0/edit)
-    * [Mercados](https://docs.google.com/document/d/1pZk02kWcAoxfZrhL9acsT9YxXN71e0jCts67ESh8gj4/edit)
+    * [Demanda](https://docs.google.com/document/d/1iOYJ8X5b0gTY7ms-tjwdE6aQYKGvQOy5lxAu0LcR-Lw/edit) - [Descargar PDF](https://docs.google.com/document/export?format=pdf&id=1iOYJ8X5b0gTY7ms-tjwdE6aQYKGvQOy5lxAu0LcR-Lw&includes_info_params=true)
+    * [Oferta](https://docs.google.com/document/d/15enupzs_t4oyBQC0RDR2x8Z8egidcdEvkv0jE5RAEN0/edit) - [Descargar PDF](https://docs.google.com/document/export?format=pdf&id=15enupzs_t4oyBQC0RDR2x8Z8egidcdEvkv0jE5RAEN0&includes_info_params=true)
+    * [Mercados](https://docs.google.com/document/d/1pZk02kWcAoxfZrhL9acsT9YxXN71e0jCts67ESh8gj4/edit) - [Descargar PDF](https://docs.google.com/document/export?format=pdf&id=1pZk02kWcAoxfZrhL9acsT9YxXN71e0jCts67ESh8gj4&includes_info_params=true)
 * Unidad 3
-    * [Factores de la producción](https://docs.google.com/document/d/1AWGI4s-yKToPkgMLbKcBXVk9APkjQ94JPTDGEbdujuU/edit)
+    * [Factores de la producción](https://docs.google.com/document/d/1AWGI4s-yKToPkgMLbKcBXVk9APkjQ94JPTDGEbdujuU/edit) - [Descargar PDF](https://docs.google.com/document/export?format=pdf&id=1AWGI4s-yKToPkgMLbKcBXVk9APkjQ94JPTDGEbdujuU&includes_info_params=true)
 * Unidad 4
-    * [Renta Nacional](https://docs.google.com/document/d/1nLY7M7KiQ_fDMdFZYXajgeoRsI9aouO5NgZE83xO3kY/edit)
+    * [Renta Nacional](https://docs.google.com/document/d/1nLY7M7KiQ_fDMdFZYXajgeoRsI9aouO5NgZE83xO3kY/edit) - [Descargar PDF](https://docs.google.com/document/export?format=pdf&id=1nLY7M7KiQ_fDMdFZYXajgeoRsI9aouO5NgZE83xO3kY&includes_info_params=true)
 * Unidad 5
-    * [Sistema Monetario](https://docs.google.com/document/d/1CrC-xAQYl9tbrcl9nRN-4jpgSCukT-miuIHo5Qh41pg/edit#)
+    * [Sistema Monetario](https://docs.google.com/document/d/1CrC-xAQYl9tbrcl9nRN-4jpgSCukT-miuIHo5Qh41pg/edit#) - [Descargar PDF](https://docs.google.com/document/export?format=pdf&id=1CrC-xAQYl9tbrcl9nRN-4jpgSCukT-miuIHo5Qh41pg&includes_info_params=true)
 * Unidad 6
-    * [Depreciacion y amortizacion]( https://docs.google.com/document/d/13kXR0UtlYgK_7ALPhLvq1iWahHNqrJ-pAFbXHvSm0g4/edit)
+    * [Depreciacion y amortizacion]( https://docs.google.com/document/d/13kXR0UtlYgK_7ALPhLvq1iWahHNqrJ-pAFbXHvSm0g4/edit) - [Descargar PDF](https://docs.google.com/document/export?format=pdf&id=13kXR0UtlYgK_7ALPhLvq1iWahHNqrJ-pAFbXHvSm0g4&includes_info_params=true)
 * Unidad 7
-    * [Costos](https://docs.google.com/document/d/1N3zCqmjZCodv01hY4OYPTOQvBjruP925hEpoyJP5Gh4/edit#)
+    * [Costos](https://docs.google.com/document/d/1N3zCqmjZCodv01hY4OYPTOQvBjruP925hEpoyJP5Gh4/edit#) - [Descargar PDF](https://docs.google.com/document/export?format=pdf&id=1N3zCqmjZCodv01hY4OYPTOQvBjruP925hEpoyJP5Gh4&includes_info_params=true)
 * Unidad 8
-    * [Contabilidad y balances](https://docs.google.com/document/d/13a5rluDxEnyOUwC8wSz2zsGpu3AyDd4LkNMVpCbUQfw/edit)
+    * [Contabilidad y balances](https://docs.google.com/document/d/13a5rluDxEnyOUwC8wSz2zsGpu3AyDd4LkNMVpCbUQfw/edit) - [Descargar PDF](https://docs.google.com/document/export?format=pdf&id=13a5rluDxEnyOUwC8wSz2zsGpu3AyDd4LkNMVpCbUQfw&includes_info_params=true)
 * Unidad 9
-    * [Presupuesto de la empresa](https://docs.google.com/document/d/1MBym0UKN_y8n00p8wEkuDWCo8-DVIrqkoiXlvVUUZNc/edit)
+    * [Presupuesto de la empresa](https://docs.google.com/document/d/1MBym0UKN_y8n00p8wEkuDWCo8-DVIrqkoiXlvVUUZNc/edit) - [Descargar PDF](https://docs.google.com/document/export?format=pdf&id=1MBym0UKN_y8n00p8wEkuDWCo8-DVIrqkoiXlvVUUZNc&includes_info_params=true)
 * Unidad 10
-    * [Matematica financiera](https://docs.google.com/document/d/10BX5PSI-EdzRrC9njcvjF_qiH1EqVxIvSeSbbfXaRwY/edit)
+    * [Matematica financiera](https://docs.google.com/document/d/10BX5PSI-EdzRrC9njcvjF_qiH1EqVxIvSeSbbfXaRwY/edit) - [Descargar PDF](https://docs.google.com/document/export?format=pdf&id=10BX5PSI-EdzRrC9njcvjF_qiH1EqVxIvSeSbbfXaRwY&includes_info_params=true)
 ---
 
 ## Presentaciones
