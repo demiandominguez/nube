@@ -60,6 +60,8 @@
 
 [Presentación: Tablero de Comando](https://docs.google.com/presentation/d/1SOSjluwQFYN-hluwLqca9YX_kA3vJ0P8uigEwUwK8bA/edit)
 
+[Presentación: Tablero de Comando2](https://docs.google.com/presentation/d/1XH_j01cVPcFg4ED1pLcDa3lDl9ltSzAqZQNAHMgPEoE/edit#slide=id.p1)
+
 [Presentación: Proyectos de Inversión](https://docs.google.com/presentation/d/1o09abYgUJlDXKzg-UQmKYci4zdqYWKvNZkM0HUrmXyk/edit#slide=id.p3)
 
 [Presentación: Presupuesto de la Empresa](https://docs.google.com/presentation/d/12hEAvT_FRPNvCnHPGec-snquQiQ1ijpBsVB4MtGjp54/edit)
